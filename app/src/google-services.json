@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243997369598",
+    "project_id": "language-learning-app-5b7b2",
+    "storage_bucket": "language-learning-app-5b7b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243997369598:android:6b2c9c8799bc023bf7b1af",
+        "android_client_info": {
+          "package_name": "com.example.languagelearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243997369598-7u35rblr564i3g5v9icbtddgcqjdkcai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.languagelearningapp",
+            "certificate_hash": "de4063c0bf6d05eb984350777248357def1ab5d5"
+          }
+        },
+        {
+          "client_id": "243997369598-efnrgksbukhmorcloj3m52o022h27u8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqU10IJGvfX1YFGnfct_rPtAr1KOvTR1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243997369598-efnrgksbukhmorcloj3m52o022h27u8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
